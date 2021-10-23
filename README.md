@@ -13,3 +13,4 @@ Picture an app that could be your best friend in a bad day, assisting you in var
 
 
 ![image](https://user-images.githubusercontent.com/30676596/138558471-fcd32cf2-5eda-4ba6-bb09-58c18201f93a.png)
+![image](https://user-images.githubusercontent.com/30676596/138558518-5bb93abd-37a7-4f2d-b31b-2621b0714d46.png)
