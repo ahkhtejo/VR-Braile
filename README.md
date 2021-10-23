@@ -12,3 +12,4 @@ Real life for a disabled person is hard in most situations and we can work to im
 Picture an app that could be your best friend in a bad day, assisting you in various situations and helping you stay on top of your game when fighting the disability, making it easy to interact in real life and solving big issues in seconds.
 
 
+![image](https://user-images.githubusercontent.com/30676596/138558471-fcd32cf2-5eda-4ba6-bb09-58c18201f93a.png)
