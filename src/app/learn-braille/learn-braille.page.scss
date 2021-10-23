@@ -1,0 +1,31 @@
+.topSpase{
+    margin-top: 20%;
+}
+*{
+    font-family: 'Cairo', Courier, monospace;
+  }
+  .boton{
+    background-color: #1C74BB;
+    margin: 10px auto;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 50px;
+    box-shadow: 0.7px 0.5px 10px #00000085;
+    color: white;
+  }
+  .ICON{
+    display: flex;
+    justify-content: center; /* For horizontal alignment */
+    align-items: center;     /* For vertical alignment   */
+  }
+  .ion-card{
+      border: 1.3px solid  black !important;
+      
+  }
+  .ion-grid{
+      padding: 5px;
+  }
+  
+  .char{
+    font-size: xxx-large !important;
+  }
